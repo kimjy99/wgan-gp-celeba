@@ -20,10 +20,13 @@ WGAN-GP (Wasserstein GAN - Gradient Penalty) with CelebA dataset
 ![loss_img](./images/losses.png)  
 
 ------------------
-## Find latent vector for real images  
+## How generator improved
+![train_gif](./images/train.gif)  
+
+------------------
+## Find latent vectors for real images  
 ![latent_img](./images/latent.png)  
   
 ## Linearly mapping images  
-![mapping_img](./images/mapping.png)  
-![train_gif](./images/train.gif)    
+![mapping_img](./images/mapping.png)    
 ![test_gif](./images/test.gif)   
