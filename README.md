@@ -9,7 +9,7 @@ WGAN-GP (Wasserstein GAN - Gradient Penalty) with CelebA dataset
 > 64x64x3 → 32x32x64 → 16x16x128 → 8x8x256 → 4x4x512 → 1x1x1
 
 ### Gan Loss:  
-> CrossEntrophy (= Vanilla GAN)
+> Wasserstein Loss with Gradient Penalty
   
 ------------------
 ## Output Images  
